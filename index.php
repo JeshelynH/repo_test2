@@ -10,5 +10,8 @@
         <h1>Hello World!</h1>
         <p>Lorem</p>
         <p>Tambahan</p>
+        <ul>
+            <li>Satu</li>
+            <li>Dua</li>
     </body>
 </html>
